@@ -1,0 +1,28 @@
+
+.article-body {
+margin: 2% 8% 0 8%;
+font-family: 'Noto Serif';
+width: 72%;
+}
+
+.title {
+  font-size: 78px;
+}
+
+.subtitle {
+  font-size: 23px;
+  font-style: italic;
+  margin-bottom: 38px;
+}
+
+.paragraph {
+  margin: 3% 10% 3% 0%;
+  font-size: 18px;
+  line-height: 28px;
+
+}
+
+a, a:visited {
+  color: #f06;
+  text-decoration: none;
+}
