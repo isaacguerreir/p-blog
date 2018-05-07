@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './article.css'
+import '../styles/article.css';
 
 export default class ArticleN2 extends Component {
   render() {
